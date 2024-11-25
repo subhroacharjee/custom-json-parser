@@ -40,6 +40,6 @@ func (v ValidateCmd) Validate(content string) error {
 		return EmptyJson
 	}
 
-	// TODO:
+	// TODO: add implementation
 	return nil
 }
